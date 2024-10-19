@@ -191,7 +191,7 @@ function App() {
       </div>
       <a
         target="_blank"
-        href=""
+        href="https://github.com/anmolsharma2001/conways-game"
       >
         <FaGithub className="h-8 w-8 transition ease-in  text-gray-300 hover:text-gray-400" />
       </a>
